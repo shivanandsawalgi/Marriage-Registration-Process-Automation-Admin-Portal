@@ -1,0 +1,68 @@
+.formInlineCss {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 10px 0px 10px 0px;;
+}
+
+.fullWidthCss{
+    width: -webkit-fill-available;
+    
+}
+
+.fullWidthCssMarathi{
+    width: -webkit-fill-available;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.alignHusbandName{
+    display: inline-flex;
+}
+
+.centerAlignCss{
+    text-align: center;
+}
+
+.negativeMargine{
+    margin: 0px -15px 0px -15px;
+}
+
+.signetureCss{
+
+border: 1px solid black;
+height: 65px;
+}
+
+.containerDivCss {
+    /* border: 1px solid #9fbedf; */
+    background: aliceblue;
+    /* margin: 25px 40px; */
+    border: 2px solid #d7e0e7;
+    border-radius: 2px;
+}
+
+.headerMargingCss{
+    margin: 15px 0px 20px;
+
+}
+
+.closebtncss{
+   text-align:  right;
+}
+
+.initialTextAlign{
+    text-align: initial
+}
+
+.fieldBoxCss{
+    margin: 20px 0px 0px 0px;
+}
+
+.smallFieldsBoxCss{
+    margin: 15px 0px 0px 0px;
+}
+
+.otherNameBoxCss{
+    margin: 0px !important;
+}

@@ -1,0 +1,36 @@
+.outerDiv2{
+    text-align: -webkit-center;
+    /* background-color: #d7eafa; */
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.loginDiv{
+    border: 1px solid #8a8ae3;
+    /* width: fit-content; */
+    padding: 20px 10px;
+    background-color: #d7eafa;
+    border-radius: 3px;
+    box-shadow: 1px 1px #c1d0dd;
+
+
+}
+
+.nameDiv{
+    margin: 20px 10px;
+}
+
+.titleCss{
+    color: #3939dd;
+}
+
+.inputText {
+    width: -webkit-fill-available;
+    border-color: #8a8ae3;
+}
+.redTextCss{
+    color: red;
+}
+.centerDisplay{
+    display: contents;
+}

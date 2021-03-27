@@ -1,0 +1,13 @@
+.headerDiv{
+    height: 60px;
+    background:#c9e0f6;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: darkblue;
+    padding: 15px;
+
+}
+
+.outerDiv1{
+    background: #f5fafe;
+}

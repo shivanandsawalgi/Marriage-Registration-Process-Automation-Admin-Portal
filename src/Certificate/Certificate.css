@@ -1,0 +1,84 @@
+.outerDiv{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.photoBlock{
+    height: 200px;
+    margin: 5px;
+    width: 20%;
+}
+
+.spanPhoto{
+    display: flex;
+
+}
+
+.middleDiv{
+    border: 1px solid white !important ;
+    text-align: center;
+}
+
+.nameDiv{
+    text-align: left;
+}
+
+.AdharDiv{
+    border: 1px solid black;
+    width: 25px;
+    height: 45px;
+}
+
+.dataDiv{
+    padding: 15px;
+}
+
+.alignLeftCSS{
+text-align: left;
+}
+
+.alignRightCSS{
+    text-align: right;
+    }
+
+   .sealBlockCss {
+        border: 1px solid black;
+    border-radius: 57px;
+    }
+
+    .endBlock1{
+        width: 20%;
+    }
+
+    .endBlock2{
+        width: 80%;
+    }
+
+    .midBlock1{
+
+ width: 40%;
+    }
+
+    .midBlock2{
+
+        width: 20%;
+           }
+           .lineSpaceCss{
+            line-height: 200%;
+           }
+           .alignCenterCSS{
+            text-align: center;
+            }
+    .paddingOuterDiv{
+        padding: 20px;
+    }
+ 
+    .AdharDiv2{
+        width: 30%;
+        display: -webkit-inline-box;
+    }
+
+    .AdharDiv3{
+        width: 50%;
+        display: -webkit-inline-box;
+    }

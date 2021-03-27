@@ -1,0 +1,71 @@
+.formBorderCss{
+    border: 1px solid black;
+}
+
+.formTextCenter{
+    text-align: center;
+}
+
+.formTextLeft{
+    text-align: left;
+}
+
+.formWidth70css{
+    width: 70%;
+}
+
+.formWidth50css{
+    width: 50%;
+}
+
+
+.formWidth30css{
+    width: 30%;
+}
+
+.formInlineCss{
+    display: flex;
+}
+.formMarginCss{
+    margin: 20px;
+}
+
+.formClearBothcss{
+    clear: both;
+}
+
+.formHeight250px{
+    height: 275px;
+}
+
+.formFloatRight{
+    float: right;
+}
+.formWidth25css{
+    width: 25%;
+}
+
+.formHeight50px{
+    height: 50px;
+}
+.formHeight200px{
+    height: 210px;
+}
+
+.formWidth40css{
+    width: 40%;
+
+}
+
+.formHeight70px{
+    height: 70px;
+}
+
+.lineSpacecss{
+    line-height: 200%;
+}
+
+.formWidth60css{
+    width: 60%;
+
+}
